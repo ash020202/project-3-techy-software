@@ -1,5 +1,6 @@
 ﻿# Project-3
-# Techy Software Website
+# Techy Software Website 
+visit site - (https://ash020202.github.io/project-3-techy-software/)
 
 This repository contains the source code for the **Techy Software Website** project, a professional and responsive website built for a software company. The project fulfills all the requirements outlined for an intermediate-level web development project, focusing on UI/UX design, responsiveness, and interactive features.
 
